@@ -29,4 +29,4 @@ def third_challenge
   
 end
 
-epic_tragedy[montague:][patriarch:][name:]
+epic_tragedy[:montague][:patriarch][:name]
